@@ -1,0 +1,42 @@
+/*
+    actuelle.php style
+*/
+.date{
+    font-size: 1.2em;
+}
+.temperature{
+    font-size: 1.8em;
+    text-align: center;
+}
+.humidite{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.vitesse{
+    float: right;
+    font-size: 1.5em;
+}
+/*
+    end actuelle.php style
+*/
+
+/*
+!*
+    help.php style
+*!
+.input-disposition {
+  float: none; !* Fait en sorte que les input soient les uns en dessous des autres avec leurs labels *!
+}
+
+.labelEmail {
+  float: none; !* cf plus haut *!
+}
+
+.inputEmail {
+  width: 30%; !* Le champ email ne prendra pas toute la largeur du texarea *!
+}
+!*
+    End help.php style
+*!
+*/
